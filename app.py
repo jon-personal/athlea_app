@@ -159,7 +159,7 @@ if t:
 
 if u:
     st.markdown('<p style=" color: #e65eaf; font-size: 50px; text-align: center;"><b>UMBRELLA</b></p>', unsafe_allow_html=True)
-    st.image('images/umbrella.jpg')
+    st.image('images/umbrella.jpeg')
     st.balloons()
 
 if v:
@@ -168,13 +168,13 @@ if v:
     st.balloons()
 
 if w:
-    st.markdown('<p style=" color: #e65eaf; font-size: 50px; text-align: center;"><b>WEASEL</b></p>', unsafe_allow_html=True)
-    st.image('images/weasel.jpg')
+    st.markdown('<p style=" color: #e65eaf; font-size: 50px; text-align: center;"><b>WATERMELON</b></p>', unsafe_allow_html=True)
+    st.image('images/watermelon.jpg')
     st.balloons()
 
 if x:
     st.markdown('<p style=" color: #e65eaf; font-size: 50px; text-align: center;"><b>XYLOPHONE</b></p>', unsafe_allow_html=True)
-    st.image('images/xylophone.jpg')
+    st.image('images/xylophone.jpeg')
     st.balloons()
 
 if y:
